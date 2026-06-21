@@ -57,9 +57,7 @@ Files:
 
 Additional details are available in:
 
-```text
-References/README_REF.md
-```
+[README_REF.md](References/README_REF.md)
 
 ---
 
