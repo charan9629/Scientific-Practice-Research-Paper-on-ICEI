@@ -55,9 +55,7 @@ Files:
 * reference_4.pdf
 * reference_5.pdf
 
-Additional details are available in:
-
-[README_REF.md](References/README_REF.md)
+Additional details are available in: [README_REF.md](References/README_REF.md)
 
 ---
 
@@ -69,11 +67,7 @@ Files:
 
 * Organised_Data_Sets.xlsx
 
-Additional details are available in:
-
-```text
-datasets/README_DATASET.md
-```
+Additional details are available in: [README_DATASET.md](datasets/README_DATASET.md)
 
 ---
 
@@ -86,11 +80,7 @@ Files:
 * main_ICEI_bar_chart.py
 * main_citations_box_plot.py
 
-Additional details are available in:
-
-```text
-programs_for_graphs_generation/README_GRAPH.md
-```
+Additional details are available in: [README_GRAPH.md](programs_for_graphs_generation/README_GRAPH.md)
 
 ---
 
@@ -104,11 +94,9 @@ Files:
 * Figure1_ICEI_Grouped_BarChart.png
 * Figure2_Selected_Conference_Boxplot.png
 
-Additional details are available in:
+Additional details are available in: [README_RESULTS.md](results_graphs/README_RESULTS.md)
 
-```text
-results_graphs/README_RESULTS.md
-```
+---
 
 ## Additional Information
 
