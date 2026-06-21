@@ -83,8 +83,9 @@ bars_2023 = plt.bar(
     x - width/2,
     pivot_df.get(2023),
     width,
-    color="red",
-    edgecolor="black",
+    facecolor="lightcoral",
+    edgecolor="darkred",
+    hatch="//",
     label="2023"
 )
 
@@ -92,8 +93,9 @@ bars_2024 = plt.bar(
     x + width/2,
     pivot_df.get(2024),
     width,
-    color="blue",
-    edgecolor="black",
+    facecolor="lightblue",
+    edgecolor="navy",
+    hatch="\\\\",
     label="2024"
 )
 
