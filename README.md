@@ -1,4 +1,4 @@
-# Scientific Practice Research Paper First Draft
+# Scientific Practice Research Paper on ICEI
 
 ## Overview
 
