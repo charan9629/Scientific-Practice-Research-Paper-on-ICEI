@@ -6,7 +6,7 @@ This folder contains the datasets used in the research study:
 
 **"IoT Conference Excellence Index (ICEI): A Multi-Dimensional Framework for Evaluating IoT Conferences"**
 
-The dataset was compiled as part of the Scientific Practice course at the University of Bremen and contains bibliometric information collected from major Internet of Things (IoT) conference proceedings published during 2023 and 2024.
+The dataset was compiled as part of the Scientific Practice course at the University of Bremen and contains bibliometric information collected from major Internet of Things (IoT) conference proceedings published during 2023 and 2024. Data from the 2023 conference editions were collected in 2025, while data from the 2024 conference editions were collected in 2026.
 
 ---
 
