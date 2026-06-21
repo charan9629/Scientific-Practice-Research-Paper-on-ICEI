@@ -9,7 +9,6 @@ This directory contains the Python scripts used to generate the visualizations p
 The figures provide graphical insights into conference quality, citation performance, and comparative rankings across major IoT conferences published during 2023 and 2024.
 
 ---
-
 ## Figure 1: ICEI Grouped Bar Chart
 
 ### Script
@@ -18,31 +17,57 @@ The figures provide graphical insights into conference quality, citation perform
 
 ### Purpose
 
-This figure compares the calculated IoT Conference Excellence Index (ICEI) scores for all evaluated conferences across the 2023 and 2024 conference editions.
+This script calculates the IoT Conference Excellence Index (ICEI) for all evaluated conference editions and visualizes the results using a grouped bar chart.
 
-### Metric
+### Input Data
 
-ICEI is calculated as:
+Sheet:
+`statistical_evaluation`
 
-ICEI = 0.50(Citation Impact)
-+ 0.15(Diversity)
-+ 0.15(Reference Quality)
-+ 0.10(Collaboration)
-+ 0.10(Visual Communication)
+Required metrics:
 
-### Visualization Type
+* Citation Impact Score
+* Diversity Score
+* Reference Quality Score
+* Collaboration Score
+* Visual Communication Score
 
-Grouped Bar Chart
+### ICEI Formula
 
-### Output
+ICEI = 0.50 × Citation Impact
+
+* 0.15 × Diversity
+
+* 0.15 × Reference Quality
+
+* 0.10 × Collaboration
+
+* 0.10 × Visual Communication
+
+### Outputs
+
+#### 1. ICEI Results File
+
+`ICEI_Calculated.xlsx`
+
+Contains:
+
+* Conference Name
+* Conference Year
+* Individual component scores
+* Calculated ICEI score
+
+#### 2. ICEI Visualization
 
 `Figure1_ICEI_Grouped_BarChart.png`
 
+Grouped bar chart comparing ICEI scores across conference editions.
+
 ### Interpretation
 
-* Higher ICEI values indicate stronger overall conference quality.
-* Allows direct comparison between conference editions.
-* Supports conference ranking and hypothesis validation.
+* Higher ICEI values indicate superior overall conference quality.
+* Enables comparison of conference performance across multiple quality dimensions.
+* Provides the primary ranking used for hypothesis validation.
 
 ---
 
