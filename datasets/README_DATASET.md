@@ -110,5 +110,3 @@ The dataset supports:
 ## Reproducibility
 
 All figures, tables, rankings, and statistical analyses presented in the paper are generated directly from the data contained in this workbook. The dataset is structured to ensure reproducibility of the reported results.
-
-****
