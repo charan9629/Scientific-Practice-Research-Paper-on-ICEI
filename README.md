@@ -1,4 +1,4 @@
-# Scientific Practice Assignment 5 – Research Paper
+# Scientific Practice Research Paper First Draft
 
 ## Overview
 
